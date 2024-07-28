@@ -1,6 +1,6 @@
 title: Alecoder1
 logo: Assets/Images/ALEX.jpg
 show_downloads: true
-remote_theme: jekyll/theme-minimal
+remote_theme: jekyll/theme-minimal@v3.9.5
 plugins:
-  - jekyll-remote-theme
+  - jekyll-remote-theme 
